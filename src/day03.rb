@@ -28,7 +28,7 @@ File.open("input/day03.txt", "r") do |input|
             when 'v'
             	y -= 1
             else
-            	puts "Invalid token!
+            	puts "Invalid token!"
         end
 
         # Determine if this is the first time visiting this house.
